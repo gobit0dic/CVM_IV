@@ -12,43 +12,59 @@ Das Verdeck öffnet auch weiter, wenn ich die Geschwindigkeit erhöht. Lediglich
 ## Codieroptionen
 #### Verdecköffnung bis 20 km/h
 GESCHW_VERDECK_AKTIV
+
 kmh_20
 
 GESCHW_PRUEFUNG
+
 nicht_aktiv
 
 CHECK_BLOCK_4
+
 kmh_20
+
 
 #### Verdecköffnung bis 36 km/h
 GESCHW_VERDECK_AKTIV
+
 kmh_36
 
 GESCHW_PRUEFUNG
+
 nicht_aktiv
 
 CHECK_BLOCK_4
+
 kmh_36
+
 
 #### Verdecköffnung bis 40 km/h
 GESCHW_VERDECK_AKTIV
+
 kmh_40
 
 GESCHW_PRUEFUNG
+
 nicht_aktiv
 
 CHECK_BLOCK_4
+
 kmh_40
+
 
 #### Verdecköffnung bis 50 km/h
 GESCHW_VERDECK_AKTIV
+
 kmh_50
 
 GESCHW_PRUEFUNG
+
 nicht_aktiv
 
 CHECK_BLOCK_4
+
 kmh_50
+
 
 ## Weitere Infos
 Infos zum Aufbau der Codierung und möglichen Optionen findet ihr im Development Ordner. Dazu einige hilfreiche Dateien.
