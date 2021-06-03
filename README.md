@@ -50,4 +50,5 @@ CHECK_BLOCK_4
 kmh_50
 
 ## Weitere Infos
-Weitere Hintergrundinfos: https://www.zroadster.com/forum/threads/cvm-iv-verdeckoeffnen-waehrend-der-fahrt-ohne-zusatzmodul-ncs-exkurs.142475
+Infos zum Aufbau der Codierung und möglichen Optionen findet ihr im Development Ordner. Dazu einige hilfreiche Dateien.
+Weitere Diskussion: https://www.zroadster.com/forum/threads/cvm-iv-verdeckoeffnen-waehrend-der-fahrt-ohne-zusatzmodul-ncs-exkurs.142475
