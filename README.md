@@ -13,7 +13,7 @@ Das Verdeck öffnet auch weiter, wenn ich die Geschwindigkeit erhöht. Lediglich
 #### Verdecköffnung bis 20 km/h
 GESCHW_VERDECK_AKTIV
 
-kmh_20
+wert_03
 
 GESCHW_PRUEFUNG
 
@@ -21,13 +21,13 @@ nicht_aktiv
 
 CHECK_BLOCK_4
 
-kmh_20
+wert_03
 
 
 #### Verdecköffnung bis 36 km/h
 GESCHW_VERDECK_AKTIV
 
-kmh_36
+wert_04
 
 GESCHW_PRUEFUNG
 
@@ -35,13 +35,13 @@ nicht_aktiv
 
 CHECK_BLOCK_4
 
-kmh_36
+wert_04
 
 
 #### Verdecköffnung bis 40 km/h
 GESCHW_VERDECK_AKTIV
 
-kmh_40
+wert_05
 
 GESCHW_PRUEFUNG
 
@@ -49,13 +49,13 @@ nicht_aktiv
 
 CHECK_BLOCK_4
 
-kmh_40
+wert_05
 
 
 #### Verdecköffnung bis 50 km/h
 GESCHW_VERDECK_AKTIV
 
-kmh_50
+wert_06
 
 GESCHW_PRUEFUNG
 
@@ -63,13 +63,14 @@ nicht_aktiv
 
 CHECK_BLOCK_4
 
-kmh_50
+wert_06
 
 
 ## Weitere Infos
 Infos zum Aufbau der Codierung und möglichen Optionen findet ihr im Development Ordner. Dazu einige hilfreiche Dateien.
 Weitere Diskussion: https://www.zroadster.com/forum/threads/cvm-iv-verdeckoeffnen-waehrend-der-fahrt-ohne-zusatzmodul-ncs-exkurs.142475
 
+---
 
 # CVM_IV E85 - Convertible top opening while driving
 
@@ -85,43 +86,43 @@ The soft top also continues to open when you increase the speed. Only at the tim
 ## Coding options
 #### Opening up to 20 km/h
 GESCHW_VERDECK_AKTIV
-kmh_20
+wert_03
 
 GESCHW_PRUEFUNG
 nicht_aktiv
 
 CHECK_BLOCK_4
-kmh_20
+wert_03
 
 #### Opening up to 36 km/h
 GESCHW_VERDECK_AKTIV
-kmh_36
+wert_04
 
 GESCHW_PRUEFUNG
 nicht_aktiv
 
 CHECK_BLOCK_4
-kmh_36
+wert_04
 
 #### Opening up to 40 km/h
 GESCHW_VERDECK_AKTIV
-kmh_40
+wert_05
 
 GESCHW_PRUEFUNG
 nicht_aktiv
 
 CHECK_BLOCK_4
-kmh_40
+wert_05
 
 #### Opening up to 50 km/h
 GESCHW_VERDECK_AKTIV
-kmh_50
+wert_06
 
 GESCHW_PRUEFUNG
 nicht_aktiv
 
 CHECK_BLOCK_4
-kmh_50
+wert_06
 
 ## Further info
 Info about the structure of the coding and possible options can be found in the development folder. In addition some helpful files.
