@@ -10,6 +10,19 @@ Das Verdeck öffnet auch weiter, wenn ich die Geschwindigkeit erhöht. Lediglich
 3. Nun könnt ihr folgende Codieroptionen in der .MAN Datei nutzen
 
 ## Codieroptionen
+#### OEM (Öffnen nur während des Rollens)
+GESCHW_VERDECK_AKTIV
+
+wert_01
+
+GESCHW_PRUEFUNG
+
+wert_02
+
+CHECK_BLOCK_4
+
+wert_01
+
 #### Verdecköffnung bis 20 km/h
 GESCHW_VERDECK_AKTIV
 
@@ -84,6 +97,19 @@ The soft top also continues to open when you increase the speed. Only at the tim
 3. Now you can use the following coding options in your .MAN file
 
 ## Coding options
+#### OEM (Opening while walking speed)
+GESCHW_VERDECK_AKTIV
+
+wert_01
+
+GESCHW_PRUEFUNG
+
+wert_02
+
+CHECK_BLOCK_4
+
+wert_01
+
 #### Opening up to 20 km/h
 GESCHW_VERDECK_AKTIV
 wert_03
