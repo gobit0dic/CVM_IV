@@ -33,6 +33,10 @@ We have to XOR the masked values for one block at a time. So how do we do that?
 
 For calculation you can use the table "Calc_Checksum" which I have attached.
 
+## What's in the package? 
+- Disassembled DATEN files for C01, C02, C03, C04, C07
+- Excel sheet for Checksum calculation of Check_Block_04 (Can be adjusted for further checkblocks)
+
  --- 
 
 ## Wo lag die Schwierigkeit?
@@ -69,5 +73,9 @@ Wir müssen jeweils für einen Block die Masked Values per XOR verrechnen. Wie m
 7. Nun kann man die neu hinzugefügten Werte ganz normal per .MAN Datei in NCS kodieren
 
 Zum Berechnen könnt ihr die Tabelle "Calc_Checksum" verwenden, die ich angehangen habe.
+
+## Paket Inhalt
+- Disassembled DATEN Dateien für C01, C02, C03, C04, C07
+- Excel Tabelle um den Check_Block_04 zu berechnen (kann auf weitere Checkblöcke angepasst werden)
 
 
